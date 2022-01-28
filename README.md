@@ -1,2 +1,1 @@
-# gay
-gay
+# Gay
